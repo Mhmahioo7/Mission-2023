@@ -1,15 +1,73 @@
 body {
-    margin-left: 65px;
+    margin-left: 90px;
 }
 
 h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .hero-section {
     display: flex;
+    margin-top: 70px;
 }
 
 .hero-section img {
+    width: 70%;
+}
+
+.Box-one {
+    margin-right: 120px;
+}
+
+
+.link-button1 {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(248, 100, 100), rgb(82, 82, 245));
+    color: aliceblue;
+    padding: 6px;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.Box-edit1 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(245, 151, 151);
+    background-color: rgb(215, 247, 236);
+}
+
+.Box-edit2 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(228, 127, 127);
+    background-color: rgb(230, 245, 165);
+}
+
+.Box-edit3 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(240, 129, 129);
+    background-color: rgb(181, 241, 191);
+}
+
+.third-section {
+    display: flex;
+    margin-top: 70px;
+}
+
+.third-section img {
     width: 70%;
 }
